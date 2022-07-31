@@ -4,9 +4,9 @@ import java.math.BigInteger;
 
 /*
 Author: Siya Agrawal
- Date: 30/07/22
+ Date: 31/07/22
  Email: siya02.agrawal@gmail.com
- Published on: 2022,July,Saturday
+ Published on: 2022,July,Sunday
  Description: The four adjacent digits in the 1000-digit number that have the greatest 
  product are 9 × 9 × 8 × 9 = 5832
 

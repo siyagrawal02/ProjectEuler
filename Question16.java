@@ -3,9 +3,9 @@ package ProjectEuler;
 import java.math.BigInteger;
 
 /*Author: Siya Agrawal
- Date: 30/07/22
+ Date: 31/07/22
  Email: siya02.agrawal@gmail.com
- Published on: 2022,July,Saturday
+ Published on: 2022,July,Sunday
  Description:2**15 = 32768 and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
 
 What is the sum of the digits of the number 2**1000? */

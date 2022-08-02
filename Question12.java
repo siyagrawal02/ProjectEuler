@@ -1,7 +1,5 @@
 package ProjectEuler;
 
-import java.math.BigInteger;
-
 /*
  Author: Siya Agrawal
  Date: 02/08/22
